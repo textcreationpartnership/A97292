@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duckers duck'd, and duck'd, and duck'd again, head, and ears, and all over; for plunging, scolding, and defaming Occasioned by a message brought me by an Anabaptist. Thus if you stop not the press, four men will swear sodomy against you. Humbly offered to the consideration of learned, pious Anabaptists; who confess I have given their cause of plunging a dreadful blow. With friendly address to Mr. Philosensus, whose mistake in thus joyning this Greek and Latin word together, helps me to a thought against plunging. That it not only tends to, but actually doth deprive some men, but especially women, (on their own confession) of their senses when baptized, (as they call it) and therefore is not, cannot be an ordinance of Christ, but a human, or rather diabolical invention. With more arguments against plunging. By Trepidantium Malleus.</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97292</idno>
+            <idno type="STC">Wing Y79</idno>
+            <idno type="STC">ESTC R230923</idno>
+            <idno type="EEBO-CITATION">99899502</idno>
+            <idno type="PROQUEST">99899502</idno>
+            <idno type="VID">153777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duckers duck'd, and duck'd, and duck'd again, head, and ears, and all over; for plunging, scolding, and defaming Occasioned by a message brought me by an Anabaptist. Thus if you stop not the press, four men will swear sodomy against you. Humbly offered to the consideration of learned, pious Anabaptists; who confess I have given their cause of plunging a dreadful blow. With friendly address to Mr. Philosensus, whose mistake in thus joyning this Greek and Latin word together, helps me to a thought against plunging. That it not only tends to, but actually doth deprive some men, but especially women, (on their own confession) of their senses when baptized, (as they call it) and therefore is not, cannot be an ordinance of Christ, but a human, or rather diabolical invention. With more arguments against plunging. By Trepidantium Malleus.</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>[2], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Marshall at the Bible in Grace-church-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Trepidantium Malleus = Samuel Young.</note>
+                  <note>Advertisements at the foot of p. 10.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153777:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:153777:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>The DUCKERS Duck'd, and Duck'd, and Duck'd again, Head, and Ears, and all over; FOR Plunging, Scolding, and Defaming. Occaſioned By a Meſſage brought me by an Anabaptiſt.</p>
+            <p>THUS, <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f you ſtop not the Preſs, Four Men will ſwear Sodomy againſt you.</hi>
+            </p>
+            <p>Humbly offered to the Conſideration of Learn<g ref="char:EOLhyphen"/>ed, Pious Anabaptiſts; who confeſs I have given their Cauſe of Plunging a dreadful Blow.</p>
+            <p>WITH Friendly Addreſs to Mr. <hi>Philoſenſus,</hi> whoſe Miſtake in thus joyning this Greek and Latin word together, helps me to a Thought a<g ref="char:EOLhyphen"/>gainſt Plunging.</p>
+            <p>That it not only tends to, but actually doth deprive ſome Men, but eſpecially Women, (on their own Confeſſion) of their Senſes when Baptized, (as they call it) and therefore is not, cannot be an Ordinance of Chriſt, but a <hi>Human, or rather</hi> Diabolical Invention.</p>
+            <p>With more Arguments againſt Plunging.</p>
+            <p>By <hi>Trepidantium Malleus.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ONDON,</hi> Printed for <hi>John Marſhal</hi> at the <hi>Bible</hi> in <hi>Grace-church-ſtreet,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="anti-Baptist_tract">
+            <pb facs="tcp:153777:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="1" facs="tcp:153777:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>The Duckers Duck'd, and Duck'd, and Duck'd again; Head and Ears, and all over, for Plunging, Scolding, and Defaming.</head>
+            <p>WHen my laſt Sheet againſt Plunging in Baptiſm was put in my Hand to be Correct<g ref="char:EOLhyphen"/>ed, in order to its true Im<g ref="char:EOLhyphen"/>preſſion, came a Bapt. (vul<g ref="char:EOLhyphen"/>garly Anabaptiſt) to me with theſe Words in his Mouth. <hi>If you ſtop not the Preſs you are un<g ref="char:EOLhyphen"/>done, and will repent it, Four will Swear Sodo<g ref="char:EOLhyphen"/>my on you.</hi> To whom I replyed, I will haſten my Work the ſooner, and challenge any of my Accuſars to face me, <hi>&amp;c.</hi>
+            </p>
+            <p>Now, Reader, They that would conceal So<g ref="char:EOLhyphen"/>domy to ſerve their Cauſe, no wonder if they do a Brother or Siſters Whoredomes, or their own.</p>
+            <p>But why was not this Sodomy charged on me before I wrote my Epiſtle to Mr. <hi>Keith</hi> a<g ref="char:EOLhyphen"/>gainſt Plunging? I was intimate with them long before. Not a Word ſaid to me of any
+<pb n="2" facs="tcp:153777:3"/>
+               <!-- PDF PAGE 24 -->ſuch thing. So ſome dealt with Dr. <hi>Oats</hi> when he diſcovered the Popiſh Plot, <hi>&amp;c.</hi> To name no more. Let God and Man judge between me and them.</p>
+            <p>Becauſe I mention known Stories, no Man can deny; muſt therefore ſuch falſe ones be invented on me?</p>
+            <p>There were 3 Fornicating Bapt. Speakers diſ<g ref="char:EOLhyphen"/>covered in one Year in this City, and how many more ſuch may be in one Year more, who knows? Theſe were Topping Men among them, I think they will never be without many ſuch till they leave Plunging their Siſters; wo<g ref="char:EOLhyphen"/>ful is the <hi>Dedford</hi> Story laſt Year! I am not more aſſured, that Baptiſm is from Heaven, then that their Plunging is from Men. And that whatever their Sophiſtry and Equivocations be, they know as well as we, their great Men<g ref="char:punc">▪</g> many of them.</p>
+            <p n="1">1. That many die of this Diſeaſe. If ſome know not, many of our Miniſters, and People do, it is not convenient to be particular here.</p>
+            <p n="2">2. That many of them Evacuate in the Wa<g ref="char:EOLhyphen"/>ter <hi>Piſſe,</hi> is a Scripture Word, and plain <hi>Engliſh;</hi> and therefore I ſay <hi>Piſſe</hi> there. Another thing is not a Scripture Word, and therefore I will learn of the Holy Ghoſt to expreſs indecent things decently. The Story of a Woman dip'd a little after Child-birth, and what was ſeen in the Water, and that ſhe (I think) ſoon died, is often talked of.</p>
+            <p>Now, ſuppoſe when Chriſt hath appointed Wine in the other Sacrament, One ſhould take <hi>Vinum benedictum</hi> ſo; as I knew a Man in a
+<pb n="3" facs="tcp:153777:3"/>
+               <!-- PDF PAGE 24 -->Surgeon's Shop, that did on a Miſtake, and ſhould ſay this is <hi>Bleſſed Wine,</hi> and Vomit in the Cup, were not this an Abomination? As great, or greater is this I am now ſpeaking of. That when God commands Baptizing, Pouring, or Sprinkling with Water, a ſafe thing, Men ſhould plunge Head and Ears, and Piſs there, <hi>&amp;c.</hi>
+            </p>
+            <p>Had not this been an amazing thing to Sober, Grave, Serious Maids, and Matrons when they came to <hi>John</hi>'s Baptiſm, to be dealt with as a company of <hi>Froward Scolds?</hi> Now you that thirſt after my Blood, as if you hoped, as did your Fathers Forty Years ſince, to ſee the <hi>Blood of the black Goats running in the Chanals;</hi> I pray muſt not yours run there too, many of you who are become <hi>Black-Coats</hi> now? Yea, ſuch as have no Learning go up and down with a <hi>little land, black Cloaths</hi> and <hi>Coats,</hi> which puts me in mind of the Proverb, <hi>Bos cum clitellis,</hi> or a <hi>Jack an Apes in a Doublet.</hi> I remember when Mr. <hi>Flavil</hi> wrote againſt Mr. <hi>Cary</hi> (that intole<g ref="char:EOLhyphen"/>rable Plagiary) Oh the vile Stories they invented on that famous Divine! Mr. <hi>Cary</hi> about that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime went to <hi>Exeter,</hi> and Preach'd two of Mr. <hi>Flavil</hi>'s Printed Sermons, which when diſ<g ref="char:EOLhyphen"/>covered coſt him about a half Years Sickneſs. He muſt go there no more to ſhew the Gifts God gave him without Learning and Study: <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n abominable Cheat! Playing with God and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an! They that love not Presbyterian Bap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ms love in this way Presbyterian Sermons.</p>
+            <p>When at firſt they grew numerous, how few <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld ſay, they were Converted by their Preach<g ref="char:EOLhyphen"/>ing?
+<pb n="4" facs="tcp:153777:4"/>
+               <!-- PDF PAGE 25 -->They commonly dated their Converſion, or Reformation under the Miniſtry they diſ<g ref="char:EOLhyphen"/>ſerted.</p>
+            <p>For my part I care not for <hi>Reading</hi> but <hi>Think<g ref="char:EOLhyphen"/>ing,</hi> I read nothing, but muſe on this Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>Now, as Brother <hi>Minge</hi>'s Name brought me one Argument againſt Plunging. That they piſs there; who dares ſay, it is not often done? Many Men know when they go to ſwim they often do, no Man doubts it.</p>
+            <p>Well, Mr. <hi>Philoſenſus</hi> that ſeconded Mr. <hi>Makewater</hi> with a Libel, hath brought another Argument to my Mind againſt Plunging; for this is a mad word, made up of Latin and Greek. <hi>Philoſenſus</hi> muſt be a Man without ſenſe, I uſe it againſt Plunging thus; That it takes away the uſe of Men and Womens Senſe or Reaſon, whilſt they are Baptized, as they falſly call it. I am ſure this is true, eſpeci<g ref="char:EOLhyphen"/>ally in Women, and thoſe of tender Natures, and is confeſt by them. Now what a horrid thing is this? I would I were as ſure of ſome of them that they ever found their Senſes after, as I am ſure they then loſt them.</p>
+            <p>To ſee a <hi>young, beardleſs, ſnivling, ignorant</hi> Boy, or an old <hi>Cobnoſe Ignorant</hi> Lubber in the Country, dip Siſter in the Water, and handle her ungainly, and for our Tradeſmen to come to a Diſputation, and ſay as one in the <hi>Weſt</hi> That tho' Infa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts did not eat any of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fleſh in the Paſſover, they might of the Broth? (The Broth of a roaſted Lamb) lik<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:153777:4"/>
+               <!-- PDF PAGE 25 -->Brother <hi>Shrewsbury,</hi> being an Opponent lately before 5 hundred People about the change of the Sabbath day; ask'd his Brother <hi>Alloin</hi> what he meant by <hi>implicitly,</hi> whether in plain words? No matter whether ſuch an impudent Dunce be a Socinianizing Perſon or no. How was I aſha<g ref="char:EOLhyphen"/>med, as well as others, to hear Three hours ſpent in meer Tattle. Yet ſuch muſt Write Po<g ref="char:EOLhyphen"/>lemical Divinity. Some write Hymns, and tell us of the Female <hi>Sect</hi> for <hi>Sex,</hi> &amp;c. And how Grace makes them more lovely then Top-knots, and theſe muſt be ſung in the Meeting. oh!</p>
+            <p>Some before Dipping make it their main Work to inveigh againſt our Baptiſms with a Gapy Mouth, and run in with their Boots without Fear or Wit.</p>
+            <p>Theſe were not ſo Prudent as a Brother of this City; who when he had long haranged for Plunging, ſaid, <hi>I am not uſe to do it, and am not ſo well diſpoſed for it,</hi>—I will <hi>therefore deſire another to do it.</hi>—Which made a good Grave Friend of mine that ſaw it loath their Baptiſms after.</p>
+            <p>They ſhall tell us, That ſuch a Jeſuite ſaid, <hi>We know the ancient Simplicity is kept up among the Anabaptiſts, but we all do what we do for Gain.</hi> As if Jeſuits would not tell the Quakers, or any others ſo; turn themſelves in<g ref="char:EOLhyphen"/>to any Shapes? Tho' by the way the Story may be as falſe as that a Biſhop ſaid ſo, and ſo to a Brother about Baptiſm, when on Exami<g ref="char:EOLhyphen"/>nation it was made evident the Biſhop never ſaw the Man. This Villany was not done in a
+<pb n="6" facs="tcp:153777:5"/>
+               <!-- PDF PAGE 26 -->corner<g ref="char:punc">▪</g> ſo they ſay the Churchmen tell them you have <hi>gotten the right end of the Staff of us a<g ref="char:EOLhyphen"/>bout Baptiſm;</hi> when perhaps not a word true. But ſuch Stories of the Clergy make Additions to the number of their Proſylites, and that is e<g ref="char:EOLhyphen"/>nough.</p>
+            <p>And often we are told of Plunging in the Time of <hi>Auſtin.</hi>—For my part I cannot believe every thing ſome ſay of thoſe Times, but this I know.</p>
+            <p>They were then very Corrupt in their No<g ref="char:EOLhyphen"/>tions about Baptiſm. It was put off till they thought Death approached. Now I remem<g ref="char:EOLhyphen"/>ber <hi>Auſtin</hi> in his <hi>Confeſſions,</hi> Aegrotans Baptiſ<g ref="char:EOLhyphen"/>mum quaeſivit. In one Chapter, <hi>Signabar ante ſigno Crucis</hi> (This is nothing with you if the Church of <hi>England</hi> urge it for the ſign of the Croſs) <hi>&amp; condi ebar</hi> ſale. (This is nothing with you nor them, if a Papiſt urge it for his Criſme. I offer more Arguments againſt Plunging.</p>
+            <p n="1">1. If in leſſer Duties it be a golden Rule in Matters of Worſhip, a Law of Nature Antece<g ref="char:EOLhyphen"/>dent to the Command of <hi>Paul, That all things be done decently.</hi>—Then Plunging in ſo great an Ordinance as Baptiſm, with cloaths on or off is Vi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and Deteſtable.</p>
+            <p n="2">2. If God will have <hi>Mercy and not Sacrifice,</hi> then it is Unlawful to Plunge Perſons tender, and labouring with many Diſtempers.</p>
+            <p n="3">3. If Perſons as ſoon as Converted by the Word may be Baptized, but cannot be Plung<g ref="char:EOLhyphen"/>ed, (eſpecially in ſome Places) then Baptiſm is not Plunging.</p>
+            <p n="4">
+               <pb n="7" facs="tcp:153777:5"/>
+               <!-- PDF PAGE 26 -->
+4. It is Unlawful to Baptize naked young Men and Maids, old Men and Women, before mixt Spectators; as a thing Immodeſt, Un<g ref="char:EOLhyphen"/>clean, Barbarous and Ridiculous. Then Plung<g ref="char:EOLhyphen"/>ing them ſo is Unlawful, and to Plunge them with Cloaths on is to Baptize Cloaths as well as Perſons.</p>
+            <p n="5">5. If the Ancients often Baptized Men, em<g ref="char:EOLhyphen"/>bracing Chriſtianity on their Death-beds, then they Plunged them not, even in Times of great<g ref="char:EOLhyphen"/>eſt Superſtition, who ſometimes in many things <hi>over-did,</hi> and therefore no wonder if in the uſe of more Water then need.</p>
+            <p n="6">6. If Houſes cannot be had, or good Fires, and warm Beds nigh Rivers, or ſuch Places of Baptiſm, which is often ſo, then Plunging without theſe is Barbarous and Unlawful. I a<g ref="char:EOLhyphen"/>ver Plunging is a notorious Breach of the 6th, as well as the 7th. Commandment.</p>
+            <p n="7">7. If there be great danger that Brother and Siſter ſhould meet together ſometimes in the ſame warm Bed, as they did before in the ſame cold Water, then this Plunging is Unlaw<g ref="char:EOLhyphen"/>ful.</p>
+            <p n="8">8. If he that is waſh'd, as our Lord ſaid to <hi>Peter,</hi> need not waſh the <hi>whole</hi> but the <hi>Feet</hi> on<g ref="char:EOLhyphen"/>ly. Then it is Folly to ſay, the whole Body muſt be waſh'd, not the Face only.</p>
+            <p>And becauſe I am ask'd by ſome wiſe Men, where I find the word <hi>Bapto,</hi> to <hi>Dip</hi> or <hi>Plunge,</hi> uſed in the New Teſtament? Let them turn; he that <hi>dippeth</hi> with me in the Diſh,—ſend <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> to <hi>dip</hi> the tip of his Finger.—His Garments dip'd with Blood, <hi>&amp;c.</hi> In none of theſe
+<pb n="8" facs="tcp:153777:6"/>
+               <!-- PDF PAGE 27 -->is the word <hi>Baptize</hi> uſed, which corroborates my Argument.</p>
+            <p>And now Brother Bapt. for you know that <hi>Cain</hi> was <hi>Abel</hi>'s Brother, though he ſought his Life, (and had it too) but not in ſo barbarous a way as you ſought mine.</p>
+            <p n="1">1. For he ſtab'd him not in his Name and Re<g ref="char:EOLhyphen"/>putation, tho' in his Body. Never charged him with Sodomy, but hated him, as you me, be<g ref="char:EOLhyphen"/>cauſe his Deeds were good (as our Baptiſm) and his own Evil (as your abominable Plung<g ref="char:EOLhyphen"/>ing.)</p>
+            <p n="2">2. He added not Perjury to his Wickedneſs, ne<g ref="char:EOLhyphen"/>ver got four Men to Swear falſly againſt him; yet as <hi>Cain</hi> was <hi>Abel</hi>'s Brother when he con<g ref="char:EOLhyphen"/>triv'd Miſchief againſt him, as well as when he did not, ſo you may now as well as when I call'd you once Brethren, and you, as far as I know ſought not my Ruine. You call one a<g ref="char:EOLhyphen"/>nother Brother, ſome of you have call'd me ſo, I you Friendly.</p>
+            <p>Well Brother <hi>Cain,</hi> had you done your Work, I doubt not but God and Conſcience would have ſounded in our Ears Day and Night, <hi>What haſt thou done?</hi> The Voice of <hi>thy Brother's Blood cryeth in my Ears from the ground,</hi> and <hi>now art</hi> thou curſed, and you had gone up and down as <hi>Cain</hi> the Elder once did, till you on the top of a Ladder had Preach'd my Innocency.</p>
+            <p>Come <hi>Cain,</hi> get four Men more to ſwear that I <hi>Plunged</hi> you, one as much as the other.</p>
+            <p>
+               <pb n="9" facs="tcp:153777:6"/>
+               <!-- PDF PAGE 27 -->
+Whereas I am charged by ſome, that I once juſtified <hi>Corpus Theologiae,</hi> a <hi>Body of Divinity,</hi> to be true Latin, I ſay it ſtill Volumns may be ſo call'd, <hi>Corpus juris,</hi> and by the way <hi>Corpus Sartorum,</hi> The Company of Taylors is good Latin too, Is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 2 <hi>Acts</hi> 17. Falſe Greek? for ſo I am charged, I am not willing to name by whom.</p>
+            <p>Let Brother <hi>Collins</hi> himſelf, Brother <hi>Keach</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the reſt ſay (as I,) and I will believe them. That if ever they abuſed their Bodies with Wo<g ref="char:EOLhyphen"/>men ſince they were Plungers, they deſire God <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make it as the unpardonable Sin, never to be forgiven in this World, nor in the World to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome. <hi>Amen, Amen.</hi> Mr. <hi>Philoſenſus</hi> being put <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o it cloſely by one (who offers to give it on Oath) ſaid, That he believed <hi>I was an honeſt Man, and guilty of no bad Morals.</hi> (Yet He <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alks of the Four Swearers) Bapts in many pla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s where I have liv'd never doubted my Morals.</p>
+            <p>Theſe Men after the <hi>Portſmouth</hi> Diſputation were about to prove a worthy Diſputant there <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Print a <hi>lewd Man.</hi> I do believe when the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apts tell Stories of ſuch ſick <hi>Perſons Dip'd <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey came home well, gon out with a Staff, and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me home without any,</hi> &amp;c.</p>
+            <p>They are Lyes, or Tricks; ſome can be ſick, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd well when they pleaſe. Any Man of Senſe may eſpy a Cheat here.</p>
+            <p>Whence is it, that if any wild Notions <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pring up. This People are ſooner infected then <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers; and turn more Socinians then others, <hi>&amp;c.</hi>
+            </p>
+            <p>Once the Presbyterians were <hi>Baals</hi> Prieſts, <hi>&amp;c.</hi> Dogs, and Cats were ſprinkled in deteſta<g ref="char:EOLhyphen"/>tion
+<pb n="10" facs="tcp:153777:7"/>
+               <!-- PDF PAGE 28 -->of <hi>Infant Baptiſm,</hi> as that worthy Divine, Father <hi>Slater</hi> in this City mentioned in the Pul<g ref="char:EOLhyphen"/>pit, and the Bapts denied. He proves all by a Sermon before the <hi>Houſe of Commons,</hi> Preach<g ref="char:EOLhyphen"/>ed by that <hi>Stupendious piece of Senſe,</hi> the ever famous <hi>Obediah Sedgwick,</hi> Authority Sufficient.</p>
+            <closer>
+               <salute>To Mr. <hi>Philoſenſus.</hi> Sir,</salute> 
+               <signed>I am yet <hi>SAM. RECONCILEABLE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>IF any more Libels come out againſt me, (not elſe) I am ready with an Epiſtle to the King of <hi>Sion,</hi> St. <hi>Matthias, David, George, Knipperdolling,</hi> and the reſt of the Twelve Apoſtles, with a Character of them; as Men, as Chriſtians, as Speakers, proved from good Authority, my own Obſeavation, and common Ex<g ref="char:EOLhyphen"/>perience.</p>
+            <pb facs="tcp:153777:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:153777:8"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:153777:8"/>
+            <!-- PDF PAGE 29 -->
+         </div>
+      </body>
+   </text>
+</TEI>
